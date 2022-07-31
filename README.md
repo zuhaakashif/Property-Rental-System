@@ -27,8 +27,6 @@ BILL CALCULATION – The total bill is calculated by adding up the cost of the a
 
 BOOKING DETAILS – The user is shown the complete details of their booking which includes information such as their name, type of accommodation, contact number, booking number, total bill etc. The program can be reset and the user can make another booking by repeating the same process.
 
-Demo
-ezgif-4-84dcf2c02d
 
 Contribution
 Muhammad Toufeeq
